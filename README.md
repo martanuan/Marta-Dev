@@ -8,4 +8,10 @@
 
 ## Contact me:
 
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/martanu%C3%B1ez/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/1b3a98a6f9dc0b661fff8ca80b84338580750ffba882bd625efe869293d05307/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;">
+  </a>
+</p>
+
 
